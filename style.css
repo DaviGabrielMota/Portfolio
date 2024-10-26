@@ -1,0 +1,147 @@
+@charset "UTF-8";
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: "JetBrains Mono", monospace;
+}
+body{
+    height: 100vh;
+    background-color: rgb(1, 1, 90)
+}
+header{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+nav {
+   margin-top: 20px;
+}
+nav a {
+    padding-left: 10px;
+    text-decoration: none;
+    color: white;
+    font-size: 0.7em;
+}
+nav a:hover{
+    text-decoration: underline;
+    color: blue;
+}
+/*sobre mim*/
+section.container{
+    margin-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+div.foto img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+div.texto{
+    color: white;
+    font-size: 0.8em;
+    margin-top: 80px;
+}
+div.texto span{
+    color: blue;
+}
+/*skills*/
+/*skills*/
+.container_principal_skills{/*container dentro do principal , que bota os itens em coluna*/
+    margin-top: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.container_skills{/*apenas icones*/
+    margin-top: 30px;
+    display: flex;
+    gap: 20px;
+}
+.container_skills i{/*apenas tamanho do icone*/
+    font-size: 30px;
+}
+.texto_skills{/*texto de skills*/
+    font-size: 1.7em;
+    color: white;
+}
+/*projetos*/
+section.projetos {
+   display: flex;
+   justify-content: center;
+   flex-wrap: wrap;
+   gap: 50px;
+}
+section.projetos img {
+    width: 350px;
+    height: 250px;
+    border-radius: 10px;
+}
+.containerbotao{
+    display: flex;
+    gap: 15px;
+}
+.botao{
+    margin-top: 20px;
+    margin-bottom: 100px;
+}
+.botao a{
+    padding: 10px;
+    border-radius: 5px;
+    color: black;
+    background-color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+#botao2 a{
+    background-color: black;
+    color: white;
+}
+.botao a:hover{
+    color: white;
+    background-color: black;
+}
+#botao2 a:hover{
+    background-color: white;
+    color: black;
+}
+footer{
+    background-color: rgb(1, 1, 172);
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 15px;
+}
+.container_icon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+}
+.texto_footer{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    margin-bottom: 25px;
+    color: white;
+}
+footer i{
+    color: white;
+    font-size: 50px;
+}
+
+.img{
+    position: relative;
+    animation: flutuar 2s ease-in-out infinite alternate;
+
+}
+@keyframes flutuar{
+    0%{
+        top: 0;
+    }
+    100%{
+        top:30px;
+    }
+}
