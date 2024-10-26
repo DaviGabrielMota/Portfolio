@@ -10,10 +10,10 @@ Atualmente meu objetivo é atuar na área de T.I e Cybersecurity. Possuo conheci
 
 Meus objetivos **atuais** são:
 
-📚 --> Aprender sobre Segurança da Informação;
-🦅 --> Fazer Intercâmbio;
-💼 --> Viver de Programação;
-📌 --> Me tornar um Programador Back-end.
+📚 --> Aprender sobre Segurança da Informação; <br>
+🦅 --> Fazer Intercâmbio; <br>
+💼 --> Viver de Programação; <br>
+📌 --> Me tornar um Programador Back-end. 
 
 ### 📞 Contato
 
