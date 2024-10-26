@@ -23,5 +23,5 @@ A forma mais rápida de entrar em contato comigo é através do meu **discord** 
 
 Porém, outras formas de contato são:
 
---> ✉️ **E-mail**: davimota.workspace@gmail.com
+--> ✉️ **E-mail**: davimota.workspace@gmail.com <br>
 --> 📱 **Linkedin**: [davimotaa](https://www.linkedin.com/in/davimotaa/)
