@@ -10,10 +10,10 @@ Atualmente meu objetivo é atuar na área de T.I e Cybersecurity. Possuo conheci
 
 Meus objetivos **atuais** são:
 
-📚 --> Aprender sobre Segurança da Informação;
-🦅 --> Fazer Intercâmbio;
-💼 --> Viver de Programação;
-📌 --> Me tornar um Programador Back-end.
+📚 --> Aprender sobre Segurança da Informação; <br>
+🦅 --> Fazer Intercâmbio; <br>
+💼 --> Viver de Programação; <br>
+📌 --> Me tornar um Programador Back-end. 
 
 ### 📞 Contato
 
@@ -23,5 +23,9 @@ A forma mais rápida de entrar em contato comigo é através do meu **discord** 
 
 Porém, outras formas de contato são:
 
---> ✉️ **E-mail**: davimota.workspace@gmail.com
+--> ✉️ **E-mail**: davimota.workspace@gmail.com <br>
 --> 📱 **Linkedin**: [davimotaa](https://www.linkedin.com/in/davimotaa/)
+
+### Link Portfólio 
+<br>
+--> https://davigabrielmota.github.io/Portfolio/
