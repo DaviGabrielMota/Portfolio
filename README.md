@@ -4,7 +4,7 @@
 
 ### 🎓 Sobre Mim
 
-Atualmente meu objetivo é atuar na área de T.I e Cybersecurity. Possuo conhecimento técnico em logística, visto que fiz Ensino Médio junto ao curso técnico pelo SENAI. Minha primeira experiência pessoal com programação foi com o grande Gustavo Guanabara, onde obtive conhecimentos básicos sobre Python. Após assistir algumas aulas, obtive interesse na área e decidi ingressar na Universidade Tirandentes (UNIT) no curso de Análise e Desenvolvimento de Sistemas. 
+Atualmente meu objetivo é atuar na área de T.I e Cybersecurity. Possuo conhecimento técnico em logística, visto que fiz Ensino Médio junto ao curso técnico pelo SENAI. Minha primeira experiência pessoal com programação foi com o grande Gustavo Guanabara, onde obtive conhecimentos básicos sobre Python. Após assistir algumas aulas, surgiu mais interesse na área e decidi ingressar na Universidade Tirandentes (UNIT) no curso de Análise e Desenvolvimento de Sistemas. 
 
 ### 📈 Objetivos
 
