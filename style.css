@@ -105,6 +105,11 @@ section.projetos img {
     height: 40px;
 }
 
+.titulo_lista {
+    color: #BDD7E0;
+    height: 40px;
+}
+
 .containerbotao{
     display: flex;
     gap: 15px;
