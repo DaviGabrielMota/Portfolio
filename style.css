@@ -143,6 +143,46 @@ section.projetos img {
     color: black;
 }
 
+/* Firefox (uncomment to work in Firefox, although other properties will not work!)  */
+/** {
+  scrollbar-width: thin;
+  scrollbar-color: #3D8FC6 #35476B;
+}*/
+
+/* Chrome, Edge and Safari */
+*::-webkit-scrollbar {
+    height: 8px;
+    width: 8px;
+  }
+  *::-webkit-scrollbar-track {
+    border-radius: 5px;
+    background-color: #35476B;
+  }
+  
+  *::-webkit-scrollbar-track:hover {
+    background-color: #35476B;
+  }
+  
+  *::-webkit-scrollbar-track:active {
+    background-color: #35476B;
+  }
+  
+  *::-webkit-scrollbar-thumb {
+    border-radius: 5px;
+    background-color: #3D8FC6;
+  }
+  
+  *::-webkit-scrollbar-thumb:hover {
+    background-color: #3D8FC6;
+  }
+  
+  *::-webkit-scrollbar-thumb:active {
+    background-color: #3D8FC6;
+  }
+  
+
+
+
 footer{
     background-color: #131E34;
     height: 200px;
