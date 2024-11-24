@@ -82,67 +82,47 @@ div.texto span{
 }
 
 /*projetos*/
-section.projetos {
-   display: flex;
-   justify-content: center;
-   flex-wrap: wrap;
-   gap: 50px;
-}
-
-section.projetos img {
-    width: 350px;
-    height: 250px;
-    border-radius: 10px;
-}
-
-.titulo_projeto1 {
-    color: #BDD7E0;
-    height: 40px;
-}
-
-.titulo_jogo {
-    color: #BDD7E0;
-    height: 40px;
-}
-
-.titulo_lista {
-    color: #BDD7E0;
-    height: 40px;
-}
-
-.containerbotao{
+.container_projetos{
     display: flex;
-    gap: 15px;
+    gap: 30px;
+    justify-content: center;
+    height: 700px;
+    align-items: center;
 }
-
+.projeto1{
+    background-image: url(img/projeto.png);
+    background-position: center;
+    height: 300px;
+    width: 400px;
+    border-radius: 15px;
+}
+.projeto2{
+    background-image: url(img/projeto\ 2.png);
+    background-position: center;
+    height: 300px;
+    width: 400px;
+    border-radius: 15px;
+}
+.projeto3{
+    background-image: url(img/Screenshot_1.png);
+    background-position: center;
+    height: 300px;
+    width: 400px;
+    border-radius: 15px;
+}
 .botao{
-    margin-top: 20px;
-    margin-bottom: 100px;
+    margin-top: 5px;
+    display: flex;
+    gap: 10px;
 }
-
-.botao a{
-    padding: 10px;
-    border-radius: 5px;
-    color: black;
-    background-color: rgb(255, 255, 255);
-    text-decoration: none;
+.botao button{
+    width: 35%;
+    padding: 5px;
 }
-
-#botao2 a{
-    background-color: #131E34;
+.botao button:hover{
+    background-color: #35476B;
     color: white;
 }
-
-.botao a:hover{
-    color: white;
-    background-color: black;
-}
-
-#botao2 a:hover{
-    background-color: white;
-    color: black;
-}
-
 /* Firefox (uncomment to work in Firefox, although other properties will not work!)  */
 /** {
   scrollbar-width: thin;
